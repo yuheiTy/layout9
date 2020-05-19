@@ -1,0 +1,21 @@
+.box1{
+    height: 100px;
+    width: 100px;
+    background: red;
+}
+.box2{
+    height: 100px;
+    width: 100px;
+    background: rgb(0, 255, 76);
+}
+.box3{
+    height: 100px;
+    width: 100px;
+    background: blue;
+}
+body{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    height: 500px;
+}
